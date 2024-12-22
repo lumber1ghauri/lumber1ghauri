@@ -51,7 +51,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
 </p>
-
 <!-- Frontend Development -->
 <h4>Frontend Development:</h4>
 <p align="left">
@@ -68,7 +67,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
   </a>
 </p>
-
 <!-- Backend Development -->
 <h4>Backend Development:</h4>
 <p align="left">
@@ -79,7 +77,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   </a>
 </p>
-
 <!-- Databases -->
 <h4>Databases:</h4>
 <p align="left">
@@ -110,7 +107,3 @@
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lumber1ghauri&show_icons=true&locale=en&layout=compact" alt="lumber1ghauri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumber1ghauri&show_icons=true&locale=en" alt="lumber1ghauri" /></p>
