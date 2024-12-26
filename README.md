@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ukasha Zahid</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
   <div>
     <ul>
       <li>🔭 I’m currently working on <a href="https://github.com/lumber1ghauri/whatsapp-clone">Web.Whatsapp-Clone</a></li>
