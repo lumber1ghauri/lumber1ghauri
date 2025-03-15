@@ -3,10 +3,10 @@
   <div>
     <ul>
       <li>🔭 I’m currently working on <a href="">Mobile Application Development</a></li>
-      <li>🌱 I’m currently learning <strong>Django , MERN Stack , JIRA</strong></li>
+      <li>🌱 I’m currently learning <strong>Django , MERN Stack , JIRA , JAVA</strong></li>
       <li>👯 I’m looking to collaborate on <a href="https://github.com/lumber1ghauri/Azure">Azure</a></li>
       <li>👨‍💻 All of my projects are available at <a href="https://github.com/lumber1ghauri">https://github.com/lumber1ghauri</a></li>
-      <li>💬 Ask me about <strong>react , data structures</strong></li>
+      <li>💬 Ask me about <strong>react , data structures , python packages</strong></li>
       <li>📫 How to reach me <strong>ukashazahid3@gmail.com</strong></li>
       <li>⚡ Fun fact <strong>I am comedic</strong></li>
     </ul>
